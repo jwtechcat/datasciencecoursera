@@ -1,1 +1,1 @@
-## JS Data Science by Coursera
+## JH Data Science by Coursera
